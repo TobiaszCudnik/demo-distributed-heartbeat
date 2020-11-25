@@ -1,0 +1,8 @@
+/node_modules
+/src/**/*.js
+/src/**/*.js.map
+/config.js
+/config.js.map
+/yarn-error.log
+/dev/redis/.data/
+/tsconfig.tsbuildinfo
